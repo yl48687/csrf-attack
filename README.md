@@ -16,7 +16,7 @@ The original lab instructions outlining the objectives, tasks, and guidelines fo
 ### Modified Files
 The modified files according to lab instructions are as follows:
 - `addfriend.html`
-─ `editprofile.html`
+- `editprofile.html`
 
 The original (non-modified) files can be found in the `Labsetup` directory within this repository.
 
